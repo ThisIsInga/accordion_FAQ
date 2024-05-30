@@ -1,5 +1,3 @@
-// telegram channel @FrontendPortal
-
 const items = document.querySelectorAll(".accordion button");
 
 function toggleAccordion() {
